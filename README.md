@@ -1,1 +1,1 @@
-# english-for-designers
+# my design manifesto
