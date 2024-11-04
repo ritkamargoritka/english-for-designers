@@ -1,3 +1,3 @@
 # English for deSIGNers
 ## 1. Design Manifesto
-[design manifesto](presentation-manifesto/manifesto presentation.md)
+[design manifesto](presentation-manifesto/manifesto_presentation.md)
