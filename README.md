@@ -1,1 +1,1 @@
-#A my design manifesto
+My design manifesto
