@@ -16,4 +16,4 @@ Each designer has their own unique style and vision. It is this diversity that a
 Design can be a tool to create a better world. Designers have a responsibility to make sure that their work is not only beautiful, but also useful and socially relevant.
 
 ## Сonclusion
-design is not just about making beautiful things, it is a creative process that requires constant development, experimentation and social responsibility. Designers play an important role in shaping our world, and our future depends on their work.
+Design is not just about making beautiful things, it is a creative process that requires constant development, experimentation and social responsibility. Designers play an important role in shaping our world, and our future depends on their work.
