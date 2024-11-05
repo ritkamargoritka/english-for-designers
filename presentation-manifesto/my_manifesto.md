@@ -17,3 +17,5 @@ Design can be a tool to create a better world. Designers have a responsibility t
 
 ## Сonclusion
 Design is not just about making beautiful things, it is a creative process that requires constant development, experimentation and social responsibility. Designers play an important role in shaping our world, and our future depends on their work.
+
+[Design Manifesto (PDF)](manifesto-presentation.pdf)
