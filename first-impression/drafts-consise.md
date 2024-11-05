@@ -1,4 +1,4 @@
-# My drafts of first impression (short version)
+# My drafts of first impression (consise bio)
 ## 1 
 **Hi, my name is Marharyta!**
 
