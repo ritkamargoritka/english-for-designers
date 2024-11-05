@@ -6,6 +6,6 @@
 
 ## 2. First Impressions
 
-- [inspirations](first-impression/designers.md)
-- [concise bio](first-impression/drafts-concise.md)
-- [expanded bio](first-impression/drafts-expanded.md)
+- [inspirations](first-impressions/designers.md)
+- [concise bio](first-impressions/drafts-concise.md)
+- [expanded bio](first-impressions/drafts-expanded.md)
