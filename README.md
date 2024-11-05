@@ -4,4 +4,4 @@
 ## 2. First Impressions
 - [inspirations](first-impression/designers.md)
 - [concise bio](first-impression/drafts-concise.md)
-- [large drafts](first-impression/drafts-largeimpression.md)
+- [expanded bio](first-impression/drafts-expanded.md)
