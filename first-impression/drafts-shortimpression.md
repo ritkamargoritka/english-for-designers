@@ -31,6 +31,6 @@ I create logos, banners and interfaces that make your brand stand out and memora
 
 **Let's tell your story through design!**
 ## 6
-**Buongiorno!** I'm the Marharyta after whom the well-known pizza is named. 
+**Buongiorno!** I'm Marharyta after whom the well-known pizza is named. 
 
 The only difference is the spelling. I'm a graphic designer and will help you create  different and memorable visual identity and brand.
