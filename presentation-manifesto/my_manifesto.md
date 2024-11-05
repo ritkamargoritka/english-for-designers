@@ -9,7 +9,7 @@ Everything is cyclical processes. Trends have the property of returning, but wit
 ## 3. Beyond the Trend
 Designers play a key role in shaping new trends. They don't just follow trends, but set new directions, experiment and create unique concepts.
 
-## 4. Сlient and Designer will be together
+## 4. Once Upon a Time ... Сlient and Designer will be together
 Each designer has their own unique style and vision. It is this diversity that allows them to meet the needs of different clients and create a variety of projects.
 
 ## 5. The Art of Influence
