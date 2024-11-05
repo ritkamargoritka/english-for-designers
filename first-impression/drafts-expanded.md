@@ -1,4 +1,4 @@
-# My drafts of first impression (large version)
+# My drafts of first impression (expanded bio)
 ## 1 
 I'm Marharyta, a graphic designer who pushes boundaries and challenges the norm. I'm here to help you create a bold and unforgettable brand identity. Whether you need a logo, a website, or a complete rebrand, I've got you covered.
 ## 2 
