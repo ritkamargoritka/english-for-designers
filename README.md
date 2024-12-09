@@ -11,3 +11,5 @@
 - [inspirations](first-impressions/designers.md)
 
 ## 3. Portfolio
+
+- [portfolio presentation](portfolio-presentation/portfolio_presentation_compressed.pdf)
