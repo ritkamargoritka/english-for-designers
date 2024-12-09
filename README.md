@@ -9,3 +9,5 @@
 - [drafts concise bio](first-impressions/drafts-concise.md)
 - [drafts expanded bio](first-impressions/drafts-expanded.md)
 - [inspirations](first-impressions/designers.md)
+
+## 3. Portfolio
