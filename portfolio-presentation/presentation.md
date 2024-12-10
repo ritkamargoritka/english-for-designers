@@ -1,5 +1,5 @@
 ## Hi, nice to meet you!
-Have you read Master and Margarita?
+Have you read Master and Margarita by Mikhail Bulgakov?
 
 I'm Master graphic designer Marharyta.
 
