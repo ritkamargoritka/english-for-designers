@@ -1,7 +1,7 @@
 ## Hi, nice to meet you!
 Have you read Master and Margarita by Mikhail Bulgakov?
 
-I'm Master graphic designer Marharyta, who creates logo, visual identity, posters and even apps/webs interfaces.
+I'm Master graphic designer Marharyta, who creates logo, visual identity, posters, apps/webs interfaces and even motion design.
 
 **Let's tell your story through design!**
 
