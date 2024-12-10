@@ -12,4 +12,5 @@
 
 ## 3. Portfolio
 
+- [BIO](portfolio-presentation/portfolio_presentation.md)
 - [portfolio presentation](portfolio-presentation/portfolio_presentation_compressed.pdf)
