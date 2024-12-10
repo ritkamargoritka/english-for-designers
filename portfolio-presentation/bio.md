@@ -12,4 +12,4 @@ With 3 years of experience in design, I’ve collaborated with young companies, 
 
 Ready to make your brand a star? Let’s create something amazing together! 🌟
 
-[presentation](portfolio-presentation/portfolio_presentation_compressed.pdf)
+[presentation](portfolio_presentation_compressed.pdf)
