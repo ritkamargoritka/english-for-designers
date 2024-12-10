@@ -11,3 +11,5 @@ I’m a graphic designer who believes that every brand is unique and has the pot
 With 3 years of experience in design, I’ve collaborated with young companies, startups, and bloggers, helping them discover their unique style and reach new heights. For me, design is not just about aesthetics—it’s a powerful tool that tells a brand’s story and makes it recognizable.
 
 Ready to make your brand a star? Let’s create something amazing together! 🌟
+
+[presentation](portfolio-presentation/portfolio_presentation_compressed)
