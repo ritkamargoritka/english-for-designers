@@ -1,9 +1,8 @@
-## Hi, nice to meet you!
-Have you read Master and Margarita by Mikhail Bulgakov?
+## Ciao! I’m Marharyta (like the popular pizza 🍕 with a different spelling)
+I’m a Ukrainian Prague-based graphic designer here to help you create memorable visual identities and branding.
 
-I'm Master graphic designer Marharyta, who creates logo, visual identity, posters, apps/webs interfaces and even motion design.
-
-**Let's tell your story through design!**
+Ready for a fresh look? 
+Let's tell your story through design: rita.revyakina@gmail.com
 
 ## About me
 I’m a graphic designer who believes that every brand is unique and has the potential to shine in the world. I help turn ideas into memorable brands by creating logos, interfaces, and visual identities that truly stand out and deliver results.
