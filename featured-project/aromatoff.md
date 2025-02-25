@@ -1,4 +1,4 @@
-# Case Study Structure "Aromatoff"
+# Structure of "Aromatoff"
 How "Auto Essence" Became "Aromatoff": Transforming into a Modern Fragrance Brand
 
 **Introduction**
