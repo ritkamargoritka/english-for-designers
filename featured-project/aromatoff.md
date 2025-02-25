@@ -38,6 +38,6 @@ How a limited range of car air fresheners turned into a premium brand with an ex
 
 **What’s Next?**
 
-- Developing new scents under the Aromatoff brand;
+- Developing new concepts by scents under the Aromatoff brand;
 
 - Expanding into international markets with localized designs and fragrances
