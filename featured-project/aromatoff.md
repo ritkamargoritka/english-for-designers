@@ -41,3 +41,5 @@ How a limited range of car air fresheners turned into a premium brand with an ex
 - Developing new concepts by scents under the Aromatoff brand;
 
 - Expanding into international markets with localized designs and fragrances
+
+# добавить картинки с надписями написать текст больше в абзацах
