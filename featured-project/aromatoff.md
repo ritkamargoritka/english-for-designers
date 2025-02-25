@@ -30,9 +30,9 @@ How a limited range of car air fresheners turned into a premium brand with an ex
 
 **The Results**
 
-- Sales grew by 50% in three months;
+- Sales grew three months;
 
-- Social media engagement increased by 70%;
+- Social media engagement increased;
 
 - Positive customer feedback for universal design and expanded product range.
 
