@@ -22,9 +22,9 @@ How a limited range of car air fresheners turned into a premium brand with an ex
 
 **Development Process**
 
-- Created sketches;
+- Created sketches of new logo and concept design;
 
-- Selected color palettes and scents;
+- Selected color palettes by scents;
 
 - Developed an online promotion strategy.
 
