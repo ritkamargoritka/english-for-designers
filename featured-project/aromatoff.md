@@ -22,7 +22,7 @@ How a limited range of car air fresheners turned into a premium brand with an ex
 
 **Development Process**
 
-- Created sketches and 3D models;
+- Created sketches;
 
 - Selected color palettes and scents;
 
