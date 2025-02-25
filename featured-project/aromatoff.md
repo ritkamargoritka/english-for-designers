@@ -1,7 +1,7 @@
 # Structure of "Aromatoff"
 How "Auto Essence" Became "Aromatoff": Transforming into a Modern Fragrance Brand
 
-**Introduction**
+
 
 How a limited range of car air fresheners turned into a premium brand with an extended product line, including home and office fragrances.
 
