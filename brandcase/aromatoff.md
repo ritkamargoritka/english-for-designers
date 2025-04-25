@@ -29,7 +29,7 @@ We started from scratch, so every part of the brand identity was reconsidered:
 - A new name to reflect a calmer, more mature mood  
 - A visual concept that could flex and adapt to different scents and packaging  
 - A modular brand system where mood, color, and pattern could shift with every product line
-
+![process](process.png)
 ---
 
 ## 🔤 Logo
