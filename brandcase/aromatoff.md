@@ -98,6 +98,8 @@ The solution? A system of contrasts:
 ## ✅ Outcome
 
 The result is a flexible, elegant identity that can grow with the brand and hold many product variations without losing cohesion. **Aromatoff** is now a brand that speaks in **textures**, not trends — and whispers *“premium”* without screaming it.
+In addition, a dedicated brand case was created for the company — a detailed document that presents the brand story, concept evolution, and the design process behind the logo and visual system. This case helps communicate the brand’s vision both internally and externally, ensuring consistency and emotional clarity.
+
 
 ---
 
