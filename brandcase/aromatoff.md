@@ -19,6 +19,7 @@ They came to me with a simple request:
 > “We want something bold, but also poetic. Something strict, but still emotional.”
 
 And so **Aromatoff** was born — a name that evokes scent (*aroma*), softness (*off* like a whisper), and a touch of timeless elegance that feels both international and intimate.
+![inspirations](inspirations.png)
 
 ---
 
