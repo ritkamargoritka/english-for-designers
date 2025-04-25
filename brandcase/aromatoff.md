@@ -67,7 +67,7 @@ They help translate aroma into mood and appear across various brand touchpoints,
 - Packaging boxes  
 - Print collateral  
 
-_(Insert pattern examples here)_
+![pattern](pattern.png)
 
 ---
 
