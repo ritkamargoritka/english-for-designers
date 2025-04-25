@@ -80,7 +80,8 @@ For the *Cherry* scent — used on both a soy wax candle and room spray — I cr
 
 > It’s giving: *one perfectly sliced cherry tart.*
 
-_(Insert Cherry product images here)_
+![candle](candle.png)
+![spray](spray-bottle.png)
 
 ---
 
