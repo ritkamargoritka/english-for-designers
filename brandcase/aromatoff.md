@@ -42,7 +42,7 @@ Above the wordmark sits a **monogram** made of two mirrored “F”s, forming an
 |---------------------------|----------------------------------------------------|
 | *subtle serif leaf logo*  | *modern, elegant black-on-white system*            |
 
-*_(Insert logo images here)_*
+![Logo before/after](brandcase/before-after.png)
 
 ---
 
