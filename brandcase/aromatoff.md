@@ -6,7 +6,6 @@
 
 **My goal of this rebranding:** to design a visual system and style that could grow and evolve — just like the people lighting those candles.
 
----
 
 ## 🧠 Concept & Background
 
@@ -21,7 +20,6 @@ They came to me with a simple request:
 And so **Aromatoff** was born — a name that evokes scent (*aroma*), softness (*off* like a whisper), and a touch of timeless elegance that feels both international and intimate.
 ![inspirations](inspirations.png)
 
----
 
 ## 🛠 Process
 
@@ -31,7 +29,6 @@ We started from scratch, so every part of the brand identity was reconsidered:
 - A visual concept that could flex and adapt to different scents and packaging  
 - A modular brand system where mood, color, and pattern could shift with every product line
 ![process](process.png)
----
 
 ## 🔤 Logo
 
@@ -45,7 +42,6 @@ Above the wordmark sits a **monogram** made of two mirrored “F”s, forming an
 
 ![before/after](before-after.png)
 
----
 
 ## 🎨 Color & Flexibility
 
@@ -55,7 +51,6 @@ Each fragrance uses its own **color variation and marbled pattern**, inspired by
 
 > *Cherry*, for example, gets dark red swirls — rich and intense, just like biting into the fruit too soon and pretending you’re fine.
 
----
 
 ## 🌀 Pattern System
 
@@ -69,7 +64,6 @@ They help translate aroma into mood and appear across various brand touchpoints,
 
 ![pattern](pattern.png)
 
----
 
 ## 🍒 Real Product Example: “Cherry”
 
@@ -84,7 +78,6 @@ For the *Cherry* scent — used on both a soy wax candle and room spray — I cr
 ![candle](candle.png)
 ![spray](spray-bottle.png)
 
----
 
 ## ⚠️ Challenge
 
@@ -95,7 +88,6 @@ The solution? A system of contrasts:
 - clean logo / expressive patterns  
 - monochrome base / shifting color per scent
 
----
 
 ## ✅ Outcome
 
