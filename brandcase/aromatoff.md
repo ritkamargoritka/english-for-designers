@@ -4,7 +4,7 @@
 
 **Aromatoff** is a fragrance brand that went through a complete transformation — from name and product concept to a bold new visual identity. Originally launched as *Auto Essence* (yes, even car perfumes can glow up), the brand decided to pivot toward a more sophisticated lifestyle segment, focusing on scented candles and aroma sprays.
 
-**My task was to lead the rebranding:** visual system and style that could grow and evolve — just like the people lighting those candles.
+**My goal was to lead the rebranding:** visual system and style that could grow and evolve — just like the people lighting those candles.
 
 ---
 
